@@ -2,8 +2,6 @@ msg: karthik  jgjgjk jjhjh
 
 
 
-spring.application.name=myserverice
-
 spring.boot.admin.client.url=http://localhost:1111/
 server.port=8081
 
