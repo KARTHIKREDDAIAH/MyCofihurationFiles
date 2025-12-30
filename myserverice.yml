@@ -1,8 +1,1 @@
 msg: karthik  jgjgjk jjhjh
-
-
-
-spring.boot.admin.client.url=http://localhost:1111/
-server.port=8081
-
-management.endpoints.web.exposure.include=* ,refresh
